@@ -30,27 +30,33 @@ This project accomplishes motion and touch tracking using simple household stuff
 ![Circuit Diagram](http://makezine.com/wp-content/uploads/make-images/vnMhkLZVqZmA2rQG.jpg)
 
 ###Applications included:
-1. Motion Tracking
+#####1. Motion Tracking.
+
 *This sketch tracks motion of your hand and presents it in a 3D block grid arrangement wherein the yellow sphere denotes your hands position*
 ![Motion Tracking](https://github.com/prasadchelsea33/3D-Interface/blob/master/Images/Motion%20Tracking.png?raw=true) 
 
-2. 3D Camera
+#####2. 3D Camera.
+
 *Uses same code as above and uses hands motion to control a camera's viewing angle*
 ![3D Camera](https://github.com/prasadchelsea33/3D-Interface/blob/master/Images/3D%20CAMERA.png?raw=true) 
 
-3. Musical instruments
+#####3. Musical instruments.
+
 *uses hand gestures to produce different sound output like different chords of guitar*
 ![Musical Instrument demo](https://github.com/prasadchelsea33/3D-Interface/blob/master/Images/Musical%20Instrument.PNG?raw=true)
 
-4. UFO game
+#####4. UFO game.
+
 *uses hands gestures inside a 3D game.Aim is to suck people in and dodge missiles*
 ![UFO game](https://github.com/prasadchelsea33/3D-Interface/blob/master/Images/%20UFO%20Game.png?raw=true)
 
-5. Drawboard
+#####5.Drawboard.
+
 *This implementation uses both motion and touch tracking wherein all the 3 plates(X,Y,Z) become touch surfaces as well*
 ![Drawboard](https://github.com/prasadchelsea33/3D-Interface/blob/master/Images/DRAWBOARD.png?raw=true)
 
-6. Virtual Blocks (Work in progress)
+#####6. Virtual Blocks (Work in progress).
+
 *Uses motion tracking to control 3D blocks height. This is still a work in progress.*
 ![Virtual Blocks](https://github.com/prasadchelsea33/3D-Interface/blob/master/Images/Virtual%20blocks.jpg?raw=true)
 
@@ -65,7 +71,10 @@ This project accomplishes motion and touch tracking using simple household stuff
 7. Now you are good to go. PLAY WITH IT! HAVE FUN.
 
 
-REFERENCES:
-These articles have very good explanation and will guide you properly through the hardware setup.[Article1](http://www.instructables.com/id/DIY-3D-Controller/)
-[Article2](http://makezine.com/projects/a-touchless-3d-tracking-interface/)
-[Paper with helpful implementation details](https://seaperch.byu.edu/wp-content/uploads/2013/06/Paper.pdf)
+###REFERENCES:
+These articles have very good explanation and will guide you properly through the hardware setup.
+[Article1](http://www.instructables.com/id/DIY-3D-Controller/).
+
+[Article2](http://makezine.com/projects/a-touchless-3d-tracking-interface/).
+
+[Paper with helpful implementation details](https://seaperch.byu.edu/wp-content/uploads/2013/06/Paper.pdf).
